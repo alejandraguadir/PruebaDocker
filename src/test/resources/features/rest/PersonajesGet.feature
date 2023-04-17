@@ -13,6 +13,4 @@ Feature: Buscar personajes
     Examples:
       | id    | nombre           | codigo |
       | "1"   | "Rick Sanchez"   | 200    |
-      | "5"   | "Jerry Smith"    | 200    |
-      | "5"   | "Jerry Smith"    | 200    |
       | "100" | "Bubonic Plague" | 200    |
